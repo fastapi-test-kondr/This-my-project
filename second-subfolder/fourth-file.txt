@@ -1,1 +1,4 @@
 My fourth file.txt
+
+This file was modified in the feature branch
+This file was modified in the my-feature branch
